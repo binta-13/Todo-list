@@ -1,0 +1,30 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/binta/Desktop/todolist_test/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_011fe5dc"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/binta/Desktop/todolist_test/pages/register/index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_b1237520"
+  },
+  {
+    "name": "edit-id",
+    "path": "/edit/:id",
+    "component": "/home/binta/Desktop/todolist_test/pages/edit/_id/index.vue",
+    "chunkName": "pages/edit/_id/index",
+    "_name": "_6588f082"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/binta/Desktop/todolist_test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2ae88a90"
+  }
+]
